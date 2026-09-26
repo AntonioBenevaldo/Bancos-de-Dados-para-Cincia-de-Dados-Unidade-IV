@@ -1,0 +1,5 @@
+data_venda,categoria,pedidos,faturamento_centavos,custo_total_centavos,lucro_bruto_centavos
+2026-01-01,informatica,1,19000,12000,7000
+2026-01-01,papelaria,1,10000,6000,4000
+2026-01-02,papelaria,1,5000,3000,2000
+2026-01-03,informatica,1,23500,16000,7500

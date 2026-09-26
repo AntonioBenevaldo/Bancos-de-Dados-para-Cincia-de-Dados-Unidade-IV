@@ -1,0 +1,5 @@
+Métrica,Valor
+Precision,0.75
+Recall,0.75
+F1,0.75
+Threshold,0.5

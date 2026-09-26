@@ -1,0 +1,7 @@
+pedido_id,event_seq,data_venda,categoria,quantidade,preco_centavos,custo_centavos,desconto_centavos,status,alterado_em,faturamento_centavos,custo_total_centavos,lucro_bruto_centavos
+1,1,2026-01-01,papelaria,2,5000,3000,0,concluido,2026-01-04T08:00:00Z,10000,6000,4000
+2,2,2026-01-01,informatica,1,20000,12000,1000,concluido,2026-01-04T08:00:00Z,19000,12000,7000
+3,3,2026-01-02,papelaria,3,4000,2500,0,pendente,2026-01-04T08:00:00Z,12000,7500,4500
+4,4,2026-01-02,papelaria,5,1000,600,0,concluido,2026-01-04T08:00:00Z,5000,3000,2000
+5,5,2026-01-03,informatica,1,8000,5000,0,cancelado,2026-01-04T08:00:00Z,8000,5000,3000
+6,6,2026-01-03,informatica,2,12000,8000,500,concluido,2026-01-04T08:00:00Z,23500,16000,7500

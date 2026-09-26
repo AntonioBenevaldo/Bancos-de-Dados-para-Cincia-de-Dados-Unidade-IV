@@ -1,0 +1,29 @@
+test_arquivo_invalido_nao_e_tratado_como_sucesso (test_painel.PainelTest.test_arquivo_invalido_nao_e_tratado_como_sucesso) ... ok
+test_categoria_com_html_nao_injeta_script (test_painel.PainelTest.test_categoria_com_html_nao_injeta_script) ... ok
+test_cli_com_caminhos_utf8_e_config (test_painel.PainelTest.test_cli_com_caminhos_utf8_e_config) ... ok
+test_financas_centavos_convertidos_em_reais (test_painel.PainelTest.test_financas_centavos_convertidos_em_reais) ... ok
+test_governanca_nao_le_segredos_nem_expoe_pseudonimos (test_painel.PainelTest.test_governanca_nao_le_segredos_nem_expoe_pseudonimos) ... ok
+test_leitura_nao_modifica_fontes (test_painel.PainelTest.test_leitura_nao_modifica_fontes) ... ok
+test_modelo_preserva_matriz_e_metricas (test_painel.PainelTest.test_modelo_preserva_matriz_e_metricas) ... ok
+test_olist_agregacao_antes_da_contagem (test_painel.PainelTest.test_olist_agregacao_antes_da_contagem) ... ok
+test_olist_duplicata_conflitante_bloqueada (test_painel.PainelTest.test_olist_duplicata_conflitante_bloqueada) ... ok
+test_olist_duplicata_identica_removida (test_painel.PainelTest.test_olist_duplicata_identica_removida) ... ok
+test_olist_mais_itens_nao_multiplica_pedidos (test_painel.PainelTest.test_olist_mais_itens_nao_multiplica_pedidos) ... ok
+test_olist_sem_precos_nao_mostra_zero_como_receita (test_painel.PainelTest.test_olist_sem_precos_nao_mostra_zero_como_receita) ... ok
+test_pipeline_totais_sem_somar_exportacoes (test_painel.PainelTest.test_pipeline_totais_sem_somar_exportacoes) ... ok
+test_projeto_ausente_nao_inventa_indicadores (test_painel.PainelTest.test_projeto_ausente_nao_inventa_indicadores) ... ok
+test_sem_modelos_serializados (test_painel.PainelTest.test_sem_modelos_serializados) ... ok
+test_valor_nao_finito_recusado (test_painel.PainelTest.test_valor_nao_finito_recusado) ... ok
+
+----------------------------------------------------------------------
+Ran 16 tests in 0.057s
+
+OK
+1 | ok | /tmp/tmpurrbr23v/dados/1
+
+Painel gerado: /tmp/tmpurrbr23v/saida com espaço.html
+Execute o comando novamente após atualizar os resultados.
+2 | ok | /tmp/tmpnxnnj15q/análise com espaços
+
+Painel gerado: /tmp/tmpnxnnj15q/painel.html
+Execute o comando novamente após atualizar os resultados.
